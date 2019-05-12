@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reco News</string>
+    <string name="Login">Sign In</string>
+    <string name="Signup">Sign Up</string>
+    <string name="action_settings">Settings</string>
+    <string name="Register"><u>New User? Sign Up Here</u></string>
+</resources>
